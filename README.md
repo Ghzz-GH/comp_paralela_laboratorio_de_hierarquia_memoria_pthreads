@@ -1,0 +1,1 @@
+# comp_paralela_laboratorio_de_hierarquia_memoria_pthreads
